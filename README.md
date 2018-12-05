@@ -1,2 +1,2 @@
 # Battle_Tank
-An open-world head to head fight with simple ai and advanced control system in ue 4
+An open-world head to head fight with simple AI and advanced control system in UE 4
